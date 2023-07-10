@@ -45,13 +45,9 @@ function App() {
     // Offline data used in case test API is unavailable or broken
     if (!response.ok) return dispatch({ type: "SET_DATA", data: offlineData });
 
-    console.log("++++++++++++++++ response", response);
     const responseData = await response.json();
     dispatch({ type: "SET_DATA", data: responseData.cars });
   });
-
-  /*  // Offline data used in case test API is unavailable or broken
-  if (error) dispatch({ type: "SET_DATA", data: offlineData }); */
 
   //Data after applying search AND sorting
   const filteredData = useFilter(fetchedData, filter);
