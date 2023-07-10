@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cra_custom_table_advanced/static/css/main.409508fb.css",
-    "main.js": "/cra_custom_table_advanced/static/js/main.fc94869b.js",
+    "main.js": "/cra_custom_table_advanced/static/js/main.b0a472ec.js",
     "index.html": "/cra_custom_table_advanced/index.html",
     "main.409508fb.css.map": "/cra_custom_table_advanced/static/css/main.409508fb.css.map",
-    "main.fc94869b.js.map": "/cra_custom_table_advanced/static/js/main.fc94869b.js.map"
+    "main.b0a472ec.js.map": "/cra_custom_table_advanced/static/js/main.b0a472ec.js.map"
   },
   "entrypoints": [
     "static/css/main.409508fb.css",
-    "static/js/main.fc94869b.js"
+    "static/js/main.b0a472ec.js"
   ]
 }
