@@ -1,7 +1,7 @@
 Сustom table built from data obtained via API;</br> 
 Advanced search (highlighting of the searching fragment);</br>
 Advanced sorting (descending / ascending by clicking on the column name);</br>
-Pagination;</br>
+Advanced Pagination;</br>
 Saving data to session;</br>
 Custom hooks;</br>
 
